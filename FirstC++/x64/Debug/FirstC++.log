@@ -1,0 +1,8 @@
+﻿  test.cpp
+F:\Codes\C++\FirstC++\test.cpp(541,11): warning C4101: “t”: 未引用的局部变量
+F:\Codes\C++\FirstC++\test.cpp(566,16): warning C4838: 从“const char [2]”转换到“bool”需要收缩转换
+F:\Codes\C++\FirstC++\test.cpp(567,16): warning C4838: 从“const char [2]”转换到“bool”需要收缩转换
+F:\Codes\C++\FirstC++\test.cpp(568,16): warning C4838: 从“const char [2]”转换到“bool”需要收缩转换
+F:\Codes\C++\FirstC++\test.cpp(569,16): warning C4838: 从“const char [2]”转换到“bool”需要收缩转换
+F:\Codes\C++\FirstC++\test.cpp(570,16): warning C4838: 从“const char [2]”转换到“bool”需要收缩转换
+  FirstC++.vcxproj -> F:\Codes\C++\FirstC++\x64\Debug\FirstC++.exe
